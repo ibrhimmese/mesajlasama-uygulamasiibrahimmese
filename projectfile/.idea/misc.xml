@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/drawable/back.xml" value="0.19322916666666667" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/drawable/cancel.xml" value="0.19322916666666667" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_chat.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_friends.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_main.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_profile.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_signin.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_signup.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/activity_splash.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/cardviewcontact.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/cardviewfriend.xml" value="0.17708333333333334" />
+        <entry key="..\:/Fraps/projectfile/app/src/main/res/layout/messagedesign.xml" value="0.17708333333333334" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/addfriend.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/addfriends.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/back.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/cancel.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/check.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/edit.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/edittextsearch.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/home.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/leftmessagelayout.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/menu.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/navigationborder.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/navigationborderred.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/newuser.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/profile.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/rightmessagelayout.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/send.xml" value="0.340625" />
+        <entry key="..\:/dersler/ibrahimmesefinal/app/src/main/res/drawable/user.xml" value="0.340625" />
+        <entry key="app/src/main/res/drawable/back.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/cancel.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/edit.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/home.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/menu.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/newuser.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/drawable/profile.xml" value="0.20416666666666666" />
+        <entry key="app/src/main/res/layout/activity_chat.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
